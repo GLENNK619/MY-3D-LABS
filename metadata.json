@@ -1,0 +1,7 @@
+{
+  "name": "MY 3D LABS",
+  "description": "Browse, view, create, and download thousands of free 3D models with an interactive real-time 3D viewport, in-browser 3D studio, and community sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
